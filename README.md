@@ -1,6 +1,3 @@
 # Spring OSGI example
 
-Example demonstrate:
-1. How to create a plugin based on Felix Framework.
-2. How to upload/update a given plugin(jar) via HTTP and load it at runtime.
-3. How to execute a plugin without application restart.
+How you can create a plugin using the Felix Framework. Additionally, how you can upload or update a plugin in JAR format via HTTP and load it at runtime. Finally, how you  can execute a plugin without having to restart the application.
